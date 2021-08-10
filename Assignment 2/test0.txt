@@ -1,0 +1,20 @@
+#break
+-1
+$broke*broken*breaking*breaks
+#dislike
+-2
+$disliked*disliked*disliking*dislikes
+#enjoy
+3
+$enjoyed*enjoyed*enjoying*enjoys
+#fun
+4
+$
+#lose
+-2
+$lost*lost*losing*loses
+#rainy
+-1
+$
+%%%%%%%%%%
+algorithms are fun although she dislikes going to school on a rainy day
