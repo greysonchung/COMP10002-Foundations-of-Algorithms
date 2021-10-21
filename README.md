@@ -1,13 +1,12 @@
 # COMP10002 Foundations of Algorithm
 
-This repository contains assignment from COMP10002 Foundations of Algorithm 2019 Semester 1
+This repository contains assignments from COMP10002 Foundations of Algorithm 2019 Semester 1
+- Language: C
 
-# Assignment 1
+## Assignment 1
 Tweet cleanser:
- * Removes non-alphanumeric characters from tweets
+- Removes non-alphanumeric characters from tweets
 
-# Assignment 2
+## Assignment 2
 Sentiment analysis:
- * process to identify opinions in a given piece of text and to 
- * determine whether the writer’s attitude towards a particular 
- * topic (or product, etc.) is positive, negative, or neutral
+- process to identify opinions in a given piece of text and to determine whether the writer’s attitude towards a particular topic (or product, etc.) is positive, negative, or neutral
