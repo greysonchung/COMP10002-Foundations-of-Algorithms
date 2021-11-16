@@ -9,4 +9,4 @@ Tweet cleanser:
 
 ## Assignment 2
 Sentiment analysis:
-- process to identify opinions in a given piece of text and to determine whether the writer’s attitude towards a particular topic (or product, etc.) is positive, negative, or neutral
+- Process to identify opinions in a given piece of text and to determine whether the writer’s attitude towards a particular topic (or product, etc.) is positive, negative, or neutral
