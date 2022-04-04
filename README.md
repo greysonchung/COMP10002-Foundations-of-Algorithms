@@ -1,6 +1,8 @@
 # COMP10002 Foundations of Algorithm
 
 This repository contains assignments from COMP10002 Foundations of Algorithm 2019 Semester 1
+
+## Dependencies
 - Language: C
 
 ## Assignment 1
